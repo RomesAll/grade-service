@@ -6,5 +6,5 @@
 
 Способ запуска: 
 ```
-python main.py <путь к файлу .ods>
+python main.py <путь к файлу .ods> <уровень логирования INFO | DEBUG | ERROR (опционально)>
 ```
